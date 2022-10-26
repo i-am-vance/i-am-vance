@@ -2,10 +2,11 @@
 <!--
 <h3 align="center">A passionate frontend developer from India</h3>
 -->
+<img src="https://komarev.com/ghpvc/?username=i-am-vance&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-vance" /> 
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/BareForcefulDrever-max-1mb.gif">
 
 <img align="left" alt="Coding" width="400" src="https://thumbs.gfycat.com/AltruisticTeemingAzurewingedmagpie-max-1mb.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-vance&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-vance" /> </p>
+<p align="left"> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-am-vance" alt="i-am-vance" /></a> </p>
 
